@@ -1,8 +1,4 @@
-# mnbkjb
-**jkhfkjhfkjshdf**
-sdfjkdfghsdfg
-sdfgksjdfhgkjsdhfgвапвапвап
-НОВА Я
+[Выбери](README)
 
 (малышка)[[README]]
 
