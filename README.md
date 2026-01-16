@@ -1,6 +1,6 @@
 # 👋 Hello / Здравствуйте!
 
-We are glad to welcome you. Please select your language to proceed with the hiring process.
+We are glad to welcome you. Please select your language to proceed sdfsdfwith the hiring process.
 Мы рады вас приветствовать. Пожалуйста, выберите язык, чтобы продолжить процесс отбора.
 
 ---
